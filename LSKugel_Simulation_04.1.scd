@@ -7,6 +7,8 @@
 //Spread mit reinarbeiten: durch vergrößerung von tri und triGain und natürlich spread!!
 
 // TEST-KOMMENTAR ZUR GIT DEMO!!!!
+// Hallo
+
 
 var wWidth = 600;
 var wHeight = 700;
