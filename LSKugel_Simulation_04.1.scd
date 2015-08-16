@@ -8,7 +8,7 @@
 
 // TEST-KOMMENTAR ZUR GIT DEMO!!!!
 // Hallo
-
+// NOCH EIN KOMMTAR
 
 var wWidth = 600;
 var wHeight = 700;
