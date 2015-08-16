@@ -6,6 +6,8 @@
 //Teil der Knob actionFunctions der bei allen gleich ist ein Mal formulieren und dann aufrufen
 //Spread mit reinarbeiten: durch vergrößerung von tri und triGain und natürlich spread!!
 
+// TEST-KOMMENTAR ZUR GIT DEMO!!!!
+
 var wWidth = 600;
 var wHeight = 700;
 var run = true;
